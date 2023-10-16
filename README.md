@@ -113,7 +113,19 @@ Para testar os exercícios, siga estas etapas:
 
 5. Execute o código para verificar se os resultados estão corretos e se o exercício está funcionando conforme o esperado.
 
-6. Utilize o Visual Studio para fazer testes !!! ATEÇÃO voce pode usar a ferramenta |_Go Live_| para ter acess voce precisra instalar a extensão no visual studio 
+6. Utilize o Visual Studio para fazer testes !!! ATEÇÃO voce pode usar a ferramenta |_Go Live_| para ter acesso voce precisra instalar a extensão |_Go Live_| no visual studio. 
+
+```
+
+Live Server
+O "Live Server" é uma extensão para o Visual Studio Code que permite iniciar um servidor web local diretamente no seu ambiente de desenvolvimento. Ele é usado principalmente para desenvolver páginas da web e oferece as seguintes funcionalidades:
+
+Inicia um servidor web local.
+Atualiza automaticamente o navegador quando você faz alterações em seus arquivos (HTML, CSS, JavaScript).
+Suporta recursos modernos da web.
+É fácil de usar e não requer configuração complexa.
+
+```
 
 Ao finalizar a lista de exercícios, você terá praticado os seguintes conceitos:
 
