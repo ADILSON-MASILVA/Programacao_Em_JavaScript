@@ -2,7 +2,7 @@
 var valorOriginal = parseFloat(prompt("Digite o valor original do produto:"));
 var desconto = parseFloat(prompt("Digite o valor do desconto (em porcentagem):"));
 
-// Calcula o valor com desconto
+// Calcula o valor com desconto...
 var valorComDesconto = valorOriginal - (valorOriginal * (desconto / 100));
 
 // Exibe o valor original e o valor com desconto no console

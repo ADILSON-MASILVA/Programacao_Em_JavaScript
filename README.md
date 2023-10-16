@@ -1,7 +1,7 @@
 
 # Exercícios de Programação em JavaScript
 
-Este conjunto de exercícios tem como objetivo praticar conceitos básicos de programação utilizando a linguagem JavaScript. Os exercícios abrangem desde operações matemáticas simples até a manipulação de objetos e variáveis booleanas. O objetivo é que você se familiarize com a sintaxe da linguagem e comece a desenvolver suas habilidades de programação em JavaScript.
+Este conjunto de exercícios tem como objetivo praticar conceitos básicos de programação utilizando a linguagem JavaScript. Os exercícios abrangem desde operações matemáticas simples até a manipulação de objetos e variáveis booleanas. O objetivo é que você se familiarize com a sintaxe da linguagem e comece a desenvolver suas habilidades de programação em JavaScript..
 
 ## Instruções Gerais
 
