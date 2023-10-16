@@ -115,9 +115,10 @@ Para testar os exercícios, siga estas etapas:
 
 6. Utilize o Visual Studio para fazer testes !!! ATEÇÃO voce pode usar a ferramenta |_Go Live_| para ter acesso voce precisra instalar a extensão |_Go Live_| no visual studio. 
 
+
+## Live Server
 ```
 
-Live Server
 O "Live Server" é uma extensão para o Visual Studio Code que permite iniciar um servidor web local diretamente no seu ambiente de desenvolvimento. Ele é usado principalmente para desenvolver páginas da web e oferece as seguintes funcionalidades:
 
 Inicia um servidor web local.
