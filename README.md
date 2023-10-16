@@ -113,6 +113,8 @@ Para testar os exercícios, siga estas etapas:
 
 5. Execute o código para verificar se os resultados estão corretos e se o exercício está funcionando conforme o esperado.
 
+6. Utilize o Visual Studio para fazer testes !!! ATEÇÃO voce pode usar a ferramenta |_Go Live_| para ter acess voce precisra instalar a extensão no visual studio 
+
 Ao finalizar a lista de exercícios, você terá praticado os seguintes conceitos:
 
 - Declaração e atribuição de variáveis;
