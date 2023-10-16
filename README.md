@@ -101,15 +101,17 @@ Aqui está a estrutura de arquivos recomendada para este conjunto de exercícios
 
 ## Infraetrutura de Testes
 
-Para testar os exercícios, siga estas etapas:
+Para testar os exercícios, siga estas etapas: 
 
-1. Abra o arquivo `index.html` em um navegador da web.
+1. Selecione o arquivo referentea atividade na pasta /js e renomei para " script.js "
 
-2. Abra o console do navegador (geralmente pressionando F12 ou clicando com o botão direito e selecionando "Inspecionar" > "Console").
+2. Abra o arquivo `index.html` em um navegador da web.
 
-3. Para cada exercício, você pode carregar o arquivo JavaScript correspondente usando a tag `<script>` no arquivo `index.html` ou copiar e colar o código diretamente no console do navegador.
+3. Abra o console do navegador (geralmente pressionando F12 ou clicando com o botão direito e selecionando "Inspecionar" > "Console").
 
-4. Execute o código para verificar se os resultados estão corretos e se o exercício está funcionando conforme o esperado.
+4. Para cada exercício, você pode carregar o arquivo JavaScript correspondente usando a tag `<script>` no arquivo `index.html` ou copiar e colar o código diretamente no console do navegador.
+
+5. Execute o código para verificar se os resultados estão corretos e se o exercício está funcionando conforme o esperado.
 
 Ao finalizar a lista de exercícios, você terá praticado os seguintes conceitos:
 
